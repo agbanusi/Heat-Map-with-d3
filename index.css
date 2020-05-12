@@ -1,0 +1,28 @@
+.let{
+  display:flex;
+  flex-direction:column;
+  justify-content:center
+}
+.head{
+  font-size:30px;
+  margin-top:20px;
+  width:100%;
+  margin-left:20vw;
+  text-align:center;
+  padding-top:10px;
+}
+.head2{
+  font-size:25px;
+  width:100%;
+  margin-left:30vw;
+  text-align:center;
+  padding-top:10px;
+}
+#tooltip{
+  padding-top:10px;
+  text-align:center;
+  font-size:15px;
+}
+svg{
+  margin-top:0px;
+}
